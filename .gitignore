@@ -36,7 +36,7 @@ LightingData.asset.meta
 [Rr]elease*/
 Builds/
 ipch/
-Library/
+*/Library/
 obj/
 Temp/
 UWP/
