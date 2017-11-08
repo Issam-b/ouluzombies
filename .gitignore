@@ -48,3 +48,6 @@ UnityVS.meta
 # Folders to keep
 !Assets/Vendors/InControl/Source/Debug/
 !Assets/CityModels
+OuluZombies Unity/Assets/CityModels/
+
+OuluZombies Unity/Assets/NatureStarterKit2/
