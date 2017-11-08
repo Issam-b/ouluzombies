@@ -47,3 +47,4 @@ UnityVS.meta
 
 # Folders to keep
 !Assets/Vendors/InControl/Source/Debug/
+!Assets/CityModels
